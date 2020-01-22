@@ -1,0 +1,1 @@
+facture.o: ../facture.cpp
